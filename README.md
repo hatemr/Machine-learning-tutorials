@@ -1,2 +1,2 @@
-# gaussian-processes-made-easy
-An introduction to Gaussian processes. This tutorial is on the technical side, but hopefully still accessible.
+# Tutorials
+I have spent some time learning about machine learning topics and decided to share what I've learned through some tutorials. These tutorials cover a couple topics that I found interesting. It's helpful for me to explain the topic as a way of learning it, and hopefully someone will find the explanation from my point of view to be helpful as they learn it.
