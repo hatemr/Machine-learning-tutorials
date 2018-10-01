@@ -1,2 +1,2 @@
 # Self-learning Tutorials
-Linear regression, Gaussian Processes, Markov Chain Monte Carlo
+Gaussian Processes, Markov Chain Monte Carlo
